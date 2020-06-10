@@ -1,0 +1,1 @@
+{"scenarios": [{"name": "xd", "actions": [{"language": "English", "text": "w koncu", "volume": 0.8, "command": "say", "type": "speech", "speech_speed": 100}, {"file_type": "jpg", "type": "media", "name": "car"}, {"command": "move_forward", "type": "movement", "distance": 0.3}], "description": "xx222t"}]}

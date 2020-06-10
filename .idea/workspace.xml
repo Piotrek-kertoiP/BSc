@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c0e4383-2d17-4ce9-9b45-621015d60d3c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/requests_handler.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>set</find>
+      <find>initialize</find>
+      <find>.js</find>
+      <find>scenarios_lis</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Mictam &lt;37049673+mictam@users.noreply.github.com&gt;" />
+        <option value="mictam &lt;matula.mikolaj@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PepperBsc-Server-2.7\res\img" />
+      <recent name="C:\PepperBsc-Server-2.7\Resources" />
+      <recent name="C:\PepperBsc-Server-2.7" />
+      <recent name="C:\Users\Mikołaj\Desktop\Pepper\PepperBSc-Server\camera" />
+      <recent name="C:\Users\Mikołaj\Desktop\Pepper\PepperBSc-Server\templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PepperBsc-Server-2.7\static" />
+      <recent name="C:\PepperBsc-Server-2.7" />
+      <recent name="C:\Users\Mikołaj\Desktop\Pepper\PepperBSc-Server" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c0e4383-2d17-4ce9-9b45-621015d60d3c" name="Default Changelist" comment="" />
+      <created>1558609422519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558609422519</updated>
+      <workItem from="1558609469158" duration="224000" />
+    </task>
+    <task id="LOCAL-00001" summary="-flask init">
+      <created>1558611406087</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558611406087</updated>
+    </task>
+    <task id="LOCAL-00002" summary="-add_move endpoit">
+      <created>1558612827214</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558612827214</updated>
+    </task>
+    <task id="LOCAL-00003" summary="- Queue added">
+      <created>1558616529922</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1558616529922</updated>
+    </task>
+    <task id="LOCAL-00004" summary="- Queue added 2.0">
+      <created>1558616599116</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1558616599116</updated>
+    </task>
+    <task id="LOCAL-00005" summary="- some endpoints added">
+      <created>1558996118518</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1558996118518</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test">
+      <created>1570388006602</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1570388006602</updated>
+    </task>
+    <task id="LOCAL-00007" summary="implementation">
+      <created>1571813643960</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1571813643960</updated>
+    </task>
+    <task id="LOCAL-00008" summary="implementation">
+      <created>1572970444152</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1572970444153</updated>
+    </task>
+    <task id="LOCAL-00009" summary="server endpoints added without sequences">
+      <created>1575250322405</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1575250322405</updated>
+    </task>
+    <task id="LOCAL-00010" summary="wprowadzono strukturę Piotrka + merdż starego kodu">
+      <created>1575332892001</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1575332892001</updated>
+    </task>
+    <task id="LOCAL-00011" summary="movement working">
+      <created>1575374503893</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1575374503893</updated>
+    </task>
+    <task id="LOCAL-00012" summary="speech works">
+      <created>1575375949332</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1575375949332</updated>
+    </task>
+    <task id="LOCAL-00013" summary="images works">
+      <created>1575384320904</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1575384320904</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="224000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-flask init" />
+    <MESSAGE value="-add_move endpoit" />
+    <MESSAGE value="- Queue added" />
+    <MESSAGE value="- Queue added 2.0" />
+    <MESSAGE value="- some endpoints added" />
+    <MESSAGE value="test" />
+    <MESSAGE value="implementation" />
+    <MESSAGE value="server endpoints added without sequences" />
+    <MESSAGE value="wprowadzono strukturę Piotrka + merdż starego kodu" />
+    <MESSAGE value="movement working" />
+    <MESSAGE value="speech works" />
+    <MESSAGE value="images works" />
+    <option name="LAST_COMMIT_MESSAGE" value="images works" />
+  </component>
+</project>
